@@ -1,0 +1,8 @@
+node_modules/
+*.local
+functions/node_modules
+.firebase
+firestore.indexes.json
+firestore.rules
+.env
+firebase-debug.log
