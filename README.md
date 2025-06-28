@@ -57,4 +57,4 @@ cloudProj/
 # ⚠️ Note:                                                                
 ##  The live demo is currently unavailable because my Google Cloud free trial has ended. Continuing service requires upgrading to a paid plan, which incurs costs. I apologize for the inconvenience and thank you for your understanding.
 
-![GCP Trial Ended Screenshot](https://raw.githubusercontent.com/lokesh0921/modify-app/main/assets/img.png)
+![GCP Trial Ended Screenshot](https://raw.githubusercontent.com/lokesh0921/modify-app/main/img.png)
